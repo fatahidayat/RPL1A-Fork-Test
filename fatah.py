@@ -1,0 +1,1 @@
+print("jika lapar, makanlah")
